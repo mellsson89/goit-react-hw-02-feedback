@@ -1,0 +1,9 @@
+.option__button {
+  text-transform: capitalize;
+  font-weight: bold;
+
+  &:not(:last-child) {
+
+   margin-right: 5px;
+  }
+}
