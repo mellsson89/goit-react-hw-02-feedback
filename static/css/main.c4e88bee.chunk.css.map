@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/FeedbackOptions/feedbackOptions.module.scss"],"names":[],"mappings":"AAAA,uCACE,yBAA0B,CAC1B,eAAiB,CAFnB,wDAMG,gBAAiB","file":"main.c4e88bee.chunk.css","sourcesContent":[".option__button {\n  text-transform: capitalize;\n  font-weight: bold;\n\n  &:not(:last-child) {\n\n   margin-right: 5px;\n  }\n}"]}
