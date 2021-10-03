@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from 'prop-types';
-import style from './feedbackOptions.module.scss'
+import style from './styles/feedbackOptions.module.scss'
 
 const FeedbackOptions =({options,onLeaveFeedback}) => (
     options.map(option => (
